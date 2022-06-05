@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Demo Website of A N M Nafiz Abeer"
 title_separator          : "-"
 name                     : &name "A N M Nafiz Abeer"
-description              : &description "personal description"
-url                      : https://draft.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Graduate Student at Texas A&M University"
+url                      : https://nafizabeer.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "nafizabeer/draft.github.io"
+repository               : "nafizabeer/nafizabeer.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
